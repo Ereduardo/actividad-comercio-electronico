@@ -1,6 +1,7 @@
 # Tienda WordPress con contenedores
 
 Plantilla de la práctica de Comercio Electrónico: WordPress + WooCommerce en Docker Compose, publicado en internet y medido con Google Analytics 4.
+Link de la página: https://verbose-palm-tree-pq566jpjvw9hr5xp-8080.app.github.dev/
 
 ## Inicio rápido (estudiantes)
 
